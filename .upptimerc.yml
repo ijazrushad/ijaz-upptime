@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://adplaytechnology.com/wp-content/uploads/2023/10/Adplay-150x35-1.svg
   name: Technology Ltd
   introTitle: "This is a real time status monitor page for all **AdPlay Technology Ltd**, **VU Mobile Ltd** & **Baarta Technology Ltd ** services."
-  introMessage: Website[**AdPlay Technology Ltd**](https://adplaytechnology.com/)
+  introMessage: Website [**AdPlay Technology Ltd**](https://adplaytechnology.com/)
   navbar:
     - title: Status
       href: /
