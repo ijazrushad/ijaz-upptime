@@ -18,16 +18,10 @@ sites:
   - name: AdPlay RTB
     url: https://rtb.adplay-mobile.com
   - name: AdPlay Game
-    url: https://game.adplay-mobile.com/
+    url: https://game.adplay-mobile.com
   - name: AdPlay Games
-    url: https://games.adplay-mobile.com/
-  - name: Office ISP ( Aamra )
-    check: "tcp-ping"
-    url: 182.160.119.236
-    port: 80
-
+    url: https://games.adplay-mobile.com
     
-  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
