@@ -21,6 +21,10 @@ sites:
     url: https://game.adplay-mobile.com/
   - name: AdPlay Games
     url: https://games.adplay-mobile.com/
+  - name: Office ISP ( Aamra )
+    check: "tcp-ping"
+    url: 182.160.119.236
+    port: 80
 
     
   
