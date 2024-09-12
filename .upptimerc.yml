@@ -21,11 +21,7 @@ sites:
     url: https://game.adplay-mobile.com/
   - name: AdPlay Games
     url: https://games.adplay-mobile.com/
-   - name: IPv6 test
-    url: 182.160.119.236
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+
     
   
 status-website:
