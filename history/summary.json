@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1666,
-    "timeDay": 1666,
-    "timeWeek": 1666,
-    "timeMonth": 1666,
-    "timeYear": 1666,
+    "time": 1707,
+    "timeDay": 1707,
+    "timeWeek": 1707,
+    "timeMonth": 1707,
+    "timeYear": 1707,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,71 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 1443,
-    "timeWeek": 1443,
-    "timeMonth": 1443,
-    "timeYear": 1443,
+    "time": 1448,
+    "timeDay": 1448,
+    "timeWeek": 1448,
+    "timeMonth": 1448,
+    "timeYear": 1448,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "AdPlay Website",
+    "url": "https://adplaytechnology.com",
+    "icon": "https://icons.duckduckgo.com/ip3/adplaytechnology.com.ico",
+    "slug": "ad-play-website",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
+  },
+  {
+    "name": "VU Website",
+    "url": "https://vumobile.biz",
+    "icon": "https://icons.duckduckgo.com/ip3/vumobile.biz.ico",
+    "slug": "vu-website",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
+  },
+  {
+    "name": "Baarta Website",
+    "url": "https://baarta.co",
+    "icon": "https://icons.duckduckgo.com/ip3/baarta.co.ico",
+    "slug": "baarta-website",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 52,
+    "timeDay": 52,
+    "timeWeek": 52,
+    "timeMonth": 52,
+    "timeYear": 52,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   }
 ]
