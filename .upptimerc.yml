@@ -13,14 +13,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.adplaytechnology.com
   # baseUrl: /ijaz-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://adplaytechnology.com/wp-content/uploads/2023/10/Adplay-150x35-1.svg
+  name: AdPlay Technology Ltd
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a AdPlay Monitor status page which uses **real-time**.[**AdPlay**](https://adplaytechnology.com/)
+  introMessage: This is a AdPlay Technology, VU Mobile & Baarta Services Monitor status page which uses **real-time**. [**AdPlay Technology Ltd**](https://adplaytechnology.com/)
   navbar:
     - title: Status
       href: /
-    - title: GitHub ( Ijaz)
+    - title: GitHub (Ijaz)
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
