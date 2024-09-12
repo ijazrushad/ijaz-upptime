@@ -1,7 +1,7 @@
-url: $https://games.adplay-mobile.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-12T08:18:51.126Z
+url: https://games.adplay-mobile.com/
+status: up
+code: 200
+responseTime: 579
+lastUpdated: 2024-09-12T08:23:35.934Z
 startTime: 2024-09-12T08:05:51.045Z
 generator: Upptime <https://github.com/upptime/upptime>
