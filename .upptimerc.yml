@@ -14,8 +14,8 @@ status-website:
   cname: up.adplaytechnology.com
   # baseUrl: /ijaz-upptime
   logoUrl: https://adplaytechnology.com/wp-content/uploads/2023/10/Adplay-150x35-1.svg
-  name: AdPlay Technology Ltd
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #name: AdPlay Technology Ltd
+  introTitle: "**AdPlay** This is a status monitor page for all AdPlay,VU & Baarta services."
   introMessage: This is a AdPlay Technology, VU Mobile & Baarta Services Monitor status page which uses **real-time**. [**AdPlay Technology Ltd**](https://adplaytechnology.com/)
   navbar:
     - title: Status
