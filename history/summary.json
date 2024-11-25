@@ -4,9 +4,9 @@
     "url": "https://quizmaster.shabox.mobi",
     "icon": "https://icons.duckduckgo.com/ip3/quizmaster.shabox.mobi.ico",
     "slug": "quizmaster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1582,
     "timeYear": 1662,
     "dailyMinutesDown": {
+      "2024-11-25": 0,
       "2024-09-14": 17
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://gamestar.shabox.mobi",
     "icon": "https://icons.duckduckgo.com/ip3/gamestar.shabox.mobi.ico",
     "slug": "gamestar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -36,6 +37,7 @@
     "timeMonth": 1349,
     "timeYear": 1474,
     "dailyMinutesDown": {
+      "2024-11-25": 0,
       "2024-09-21": 17,
       "2024-09-14": 26
     }
@@ -45,18 +47,19 @@
     "url": "https://wordstar.shabox.mobi",
     "icon": "https://icons.duckduckgo.com/ip3/wordstar.shabox.mobi.ico",
     "slug": "wordstar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1595,
-    "timeDay": 1510,
-    "timeWeek": 1574,
-    "timeMonth": 1534,
-    "timeYear": 1595,
+    "time": 1587,
+    "timeDay": 1301,
+    "timeWeek": 1497,
+    "timeMonth": 1515,
+    "timeYear": 1587,
     "dailyMinutesDown": {
+      "2024-11-25": 0,
       "2024-09-14": 26
     }
   },
@@ -77,7 +80,7 @@
     "timeMonth": 113,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-11-25": 375,
+      "2024-11-25": 563,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -171,7 +174,7 @@
     "timeMonth": 93,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-11-25": 375,
+      "2024-11-25": 563,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -265,7 +268,7 @@
     "timeMonth": 88,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-11-25": 376,
+      "2024-11-25": 563,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
