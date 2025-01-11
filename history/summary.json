@@ -88,7 +88,7 @@
     "timeMonth": 120,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-01-11": 828,
+      "2025-01-11": 839,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1412,
@@ -229,7 +229,7 @@
     "timeMonth": 83,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-01-11": 828,
+      "2025-01-11": 839,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 68,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2025-01-11": 828,
+      "2025-01-11": 839,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -499,9 +499,9 @@
     "url": "https://rtb.adplay-mobile.com",
     "icon": "https://icons.duckduckgo.com/ip3/rtb.adplay-mobile.com.ico",
     "slug": "ad-play-rtb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "94.33%",
+    "uptimeDay": "94.32%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.75%",
