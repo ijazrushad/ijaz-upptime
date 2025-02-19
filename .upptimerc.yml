@@ -28,7 +28,7 @@ status-website:
   cname: up.adplaytechnology.com
   # baseUrl: /ijaz-upptime
   logoUrl: https://adplaytechnology.com/assets/img/AdPlay-Logo-1.png
-  name: AdPlay Technology Ltd
+  name: Technology Ltd
   introTitle: "This is a real time status monitor page for all **AdPlay Technology Ltd**, **VU Mobile Ltd** & **Baarta Technology Ltd ** services."
   introMessage: Company Website - [**AdPlay Technology Ltd**](https://adplaytechnology.com/) , [**Baarta Technology Ltd**](https://baarta.co) , [**VU Mobile Ltd**](https://vumobile.biz)
   navbar:
