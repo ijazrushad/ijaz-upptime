@@ -249,7 +249,7 @@
     "slug": "vu-website",
     "status": "up",
     "uptime": "97.37%",
-    "uptimeDay": "20.68%",
+    "uptimeDay": "21.73%",
     "uptimeWeek": "32.69%",
     "uptimeMonth": "84.51%",
     "uptimeYear": "97.37%",
@@ -273,16 +273,16 @@
     "url": "https://baarta.co",
     "icon": "https://icons.duckduckgo.com/ip3/baarta.co.ico",
     "slug": "baarta-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "28.50%",
-    "uptimeWeek": "36.33%",
-    "uptimeMonth": "85.35%",
+    "uptimeDay": "29.44%",
+    "uptimeWeek": "36.51%",
+    "uptimeMonth": "85.39%",
     "uptimeYear": "97.52%",
     "time": 410,
-    "timeDay": 416,
-    "timeWeek": 421,
-    "timeMonth": 419,
+    "timeDay": 400,
+    "timeWeek": 419,
+    "timeMonth": 418,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2025-03-10": 784,
@@ -291,7 +291,7 @@
       "2025-03-07": 943,
       "2025-03-06": 1152,
       "2025-03-05": 841,
-      "2025-03-04": 624
+      "2025-03-04": 606
     }
   },
   {
