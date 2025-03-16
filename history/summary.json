@@ -247,16 +247,16 @@
     "url": "https://vumobile.biz",
     "icon": "https://icons.duckduckgo.com/ip3/vumobile.biz.ico",
     "slug": "vu-website",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "31.47%",
-    "uptimeWeek": "21.02%",
-    "uptimeMonth": "78.88%",
-    "uptimeYear": "96.54%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "32.17%",
+    "uptimeWeek": "21.12%",
+    "uptimeMonth": "79.11%",
+    "uptimeYear": "96.58%",
     "time": 549,
-    "timeDay": 594,
-    "timeWeek": 621,
-    "timeMonth": 637,
+    "timeDay": 581,
+    "timeWeek": 619,
+    "timeMonth": 636,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-03-16": 942,
@@ -267,7 +267,7 @@
       "2025-03-11": 998,
       "2025-03-10": 1077,
       "2025-03-09": 1033,
-      "2025-03-08": 307
+      "2025-03-08": 210
     }
   },
   {
@@ -278,7 +278,7 @@
     "status": "up",
     "uptime": "96.28%",
     "uptimeDay": "34.26%",
-    "uptimeWeek": "16.40%",
+    "uptimeWeek": "16.50%",
     "uptimeMonth": "77.28%",
     "uptimeYear": "96.28%",
     "time": 413,
