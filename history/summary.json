@@ -251,7 +251,7 @@
     "uptime": "96.56%",
     "uptimeDay": "33.97%",
     "uptimeWeek": "20.99%",
-    "uptimeMonth": "79.07%",
+    "uptimeMonth": "79.04%",
     "uptimeYear": "96.56%",
     "time": 548,
     "timeDay": 560,
@@ -259,7 +259,7 @@
     "timeMonth": 636,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-03-16": 550,
+      "2025-03-16": 563,
       "2025-03-15": 1025,
       "2025-03-14": 1345,
       "2025-03-13": 1440,
@@ -275,16 +275,16 @@
     "url": "https://baarta.co",
     "icon": "https://icons.duckduckgo.com/ip3/baarta.co.ico",
     "slug": "baarta-website",
-    "status": "up",
-    "uptime": "96.18%",
-    "uptimeDay": "23.71%",
-    "uptimeWeek": "16.21%",
-    "uptimeMonth": "76.72%",
-    "uptimeYear": "96.18%",
+    "status": "down",
+    "uptime": "96.19%",
+    "uptimeDay": "24.59%",
+    "uptimeWeek": "16.31%",
+    "uptimeMonth": "76.81%",
+    "uptimeYear": "96.19%",
     "time": 412,
-    "timeDay": 435,
+    "timeDay": 427,
     "timeWeek": 422,
-    "timeMonth": 419,
+    "timeMonth": 418,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-03-16": 563,
@@ -296,7 +296,7 @@
       "2025-03-10": 1116,
       "2025-03-09": 1021,
       "2025-03-08": 1056,
-      "2025-03-07": 100
+      "2025-03-07": 59
     }
   },
   {
