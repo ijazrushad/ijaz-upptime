@@ -274,15 +274,15 @@
     "url": "https://baarta.co",
     "icon": "https://icons.duckduckgo.com/ip3/baarta.co.ico",
     "slug": "baarta-website",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "60.07%",
-    "uptimeWeek": "50.07%",
-    "uptimeMonth": "88.51%",
-    "uptimeYear": "98.16%",
+    "status": "down",
+    "uptime": "98.21%",
+    "uptimeDay": "60.25%",
+    "uptimeWeek": "51.40%",
+    "uptimeMonth": "88.82%",
+    "uptimeYear": "98.21%",
     "time": 417,
     "timeDay": 454,
-    "timeWeek": 440,
+    "timeWeek": 439,
     "timeMonth": 428,
     "timeYear": 417,
     "dailyMinutesDown": {
@@ -292,7 +292,7 @@
       "2025-03-18": 1047,
       "2025-03-17": 949,
       "2025-03-16": 938,
-      "2025-03-15": 430
+      "2025-03-15": 296
     }
   },
   {
