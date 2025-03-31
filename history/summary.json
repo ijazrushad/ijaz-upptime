@@ -247,15 +247,15 @@
     "url": "https://vumobile.biz",
     "icon": "https://icons.duckduckgo.com/ip3/vumobile.biz.ico",
     "slug": "vu-website",
-    "status": "up",
-    "uptime": "95.95%",
-    "uptimeDay": "43.27%",
-    "uptimeWeek": "34.97%",
-    "uptimeMonth": "73.31%",
-    "uptimeYear": "95.95%",
+    "status": "down",
+    "uptime": "95.97%",
+    "uptimeDay": "43.26%",
+    "uptimeWeek": "35.05%",
+    "uptimeMonth": "73.44%",
+    "uptimeYear": "95.97%",
     "time": 565,
-    "timeDay": 617,
-    "timeWeek": 610,
+    "timeDay": 618,
+    "timeWeek": 608,
     "timeMonth": 632,
     "timeYear": 565,
     "dailyMinutesDown": {
@@ -270,7 +270,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 870,
-      "2025-03-20": 214
+      "2025-03-20": 157
     }
   },
   {
@@ -280,8 +280,8 @@
     "slug": "baarta-website",
     "status": "up",
     "uptime": "96.18%",
-    "uptimeDay": "54.52%",
-    "uptimeWeek": "39.90%",
+    "uptimeDay": "55.14%",
+    "uptimeWeek": "39.99%",
     "uptimeMonth": "74.82%",
     "uptimeYear": "96.18%",
     "time": 423,
