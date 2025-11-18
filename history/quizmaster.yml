@@ -1,7 +1,7 @@
 url: https://quizmaster.shabox.mobi
-status: up
-code: 200
-responseTime: 1805
-lastUpdated: 2025-11-18T03:30:44.898Z
+status: down
+code: 500
+responseTime: 1020
+lastUpdated: 2025-11-18T13:03:16.881Z
 startTime: 2024-09-12T06:39:36.122Z
 generator: Upptime <https://github.com/upptime/upptime>
